@@ -1,3 +1,3 @@
-# BO Deep GP
+# Deep GP
 
-Evaluating approaches to Bayesian optimisation using Deep Gaussian processes
+Evaluating Deep Gaussian processes 
